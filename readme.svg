@@ -9,11 +9,7 @@
       </style>
 <div class="container">
         <div>
-          <image 
-      width="500" 
-      height="250" 
-      xlink:href="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dtoma-plenty&theme=github"
-    />
+          <image clip-path="url(#clip-path)" xlink:href="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dtoma-plenty&theme=github"  src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dtoma-plenty&theme=github" alt="Image" height="500" width="500" class="svg__image"> 
         </div>
       </div>
     </div>
