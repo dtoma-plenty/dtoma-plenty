@@ -1,8 +1,8 @@
 <div align="center" >
-<a  href="https://github.com/SP-XD">
+<a  href="https://github.com/dtoma-plenty">
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dtoma-plenty&theme=github" width="32.5%">
-<img src="https://raw.githubusercontent.com/dtoma-plenty/profile-summary-cards/master/profile-summary-card-output/default/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/dtoma-plenty/profile-summary-cards/master/profile-summary-card-output/default/2-most-commit-language.svg" width="32.5%">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dtoma&theme=github&utcOffset=2" width="32.5%">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dtoma-plenty&theme=github" width="32.5%">
 
 </a>
