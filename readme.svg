@@ -1,20 +1,3 @@
-<!-- <svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-      <style>
-        .container {
-          display:flex;
-          gap:20px;
-        }
-      </style>
-<div class="container">
-        <div>
-          <image xlink:href="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dtoma-plenty&theme=github"  src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dtoma-plenty&theme=github" alt="Image" height="500" width="500" class="svg__image"> 
-        </div>
-      </div>
-    </div>
-  </foreignObject>
-</svg> -->
 
 <svg viewBox="0 0 1000 1000" width="100">
 <image x="0" y="0" width="1000" height="1000" preserveAspectRatio="none" xlink:href="https://www.w3schools.com/html/pic_trulli.jpg" />
