@@ -12,8 +12,7 @@
           <image 
       width="500" 
       height="250" 
-      xlink:href="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dtoma-plenty&theme=github" 
-      clip-path="url(#circleView)"
+      xlink:href="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dtoma-plenty&theme=github"
     />
         </div>
       </div>
