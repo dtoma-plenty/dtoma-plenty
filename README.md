@@ -4,6 +4,3 @@ Long story short: I'm a self-thought computer enthusiast with a particular inter
 ### Personal motto
 > A developer's journey never ends, there's always something new to learn. 
 
-### My recent work summary
-[![GitHub Streak](https://streak-stats.demolab.com?user=dtoma-plenty)]([https://git.io/streak-stats](https://github.com/dtoma-plenty))
-
